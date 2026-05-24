@@ -21,6 +21,7 @@ A multi-disciplinary Software Engineer and Game Developer focused on systems arc
 *An upcoming systems-driven tactical game exploring complex player progression and state simulation.*
 - **Technical Highlights:** Designing scalable relational logic for persistent world states, component-based architecture for game units, and modular UI/UX integration.
 - **Status:** In Active Production.
+- - [📁 View Repository](https://github.com/yurileeartz/insurreicao-politica)
 
 ---
 
