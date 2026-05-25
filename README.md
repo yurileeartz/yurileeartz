@@ -6,7 +6,8 @@ A multi-disciplinary Software Engineer and Game Developer focused on systems arc
 - 🌍 Based in Poland (Open to global remote and B2B contracts)
 - 🛠️ Tech Stack: Python (Pygame), Godot 4, Unity, Unreal Engine 5, UI/UX Design
 - 💼 Core Skills: Game Logic Design, Systems Engineering, Performance Optimization, Technical LQA
-
+- 
+*AI-Driven Engineering: Advanced utilization of Google Gemini for prompt-engineered code optimization, structural debugging, and rapid prototyping of game mechanics.
 ---
 
 ## 🕹️ Featured Indie Projects
