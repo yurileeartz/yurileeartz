@@ -20,9 +20,19 @@ A multi-disciplinary Software Engineer and Game Developer focused on systems arc
 
  🏛️ Insurreição Política
 *An upcoming systems-driven tactical game exploring complex player progression and state simulation.*
-- Technical Highlights:** Designing scalable relational logic for persistent world states, component-based architecture for game units, and modular UI/UX integration.
+- Technical Highlights: Designing scalable relational logic for persistent world states, component-based architecture for game units, and modular UI/UX integration.
 - Status: In Active Production.
 - - [📁 View Repository](https://github.com/yurileeartz/insurreicao-politica)
+ 
+ 🕹️ Fullmetal Acremist *(Completed)*: A suspense and mystery indie game that follows the desperate search for the legendary "Acre Boy," who vanished without a trace inside a claustrophobic, isolated room.
+- Technical Highlights: Designed a narrative-driven psychological puzzle loop, custom alchemy/resource management mechanics, and implemented an integrated multimedia pipeline for trailers and audio.
+- Status: Completed / Playable.
+- [📁 View Repository](https://github.com/yurileeartz/fullmetal-acremist)
+
+👽 A.B.C. - Apenas Busque Conhecimento *(Completed)*: A survival 2D/3D indie game based on the 'ET Bilu' lore, blending horror, mystery, and dark humor.
+- Technical Highlights: Built a component-based survival mechanic where the player is constantly persecuted by an alien entity in a procedurally dense forest, featuring custom raycasting/vision cones and pixelated shader rendering.
+- Status: Completed / Playable.
+- [📁 View Repository](https://github.com/yurileeartz/abc-apenas-busque-conhecimento)
 
 ---
 
