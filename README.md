@@ -22,7 +22,7 @@ A multi-disciplinary Software Engineer and Game Developer focused on systems arc
 *An upcoming systems-driven tactical game exploring complex player progression and state simulation.*
 - Technical Highlights: Designing scalable relational logic for persistent world states, component-based architecture for game units, and modular UI/UX integration.
 - Status: In Active Production.
-- - [📁 View Repository](https://github.com/yurileeartz/insurreicao-politica)
+- [📁 View Repository](https://github.com/yurileeartz/insurreicao-politica)
  
  🕹️ Fullmetal Acremist *(Completed)*: A suspense and mystery indie game that follows the desperate search for the legendary "Acre Boy," who vanished without a trace inside a claustrophobic, isolated room.
 - Technical Highlights: Designed a narrative-driven psychological puzzle loop, custom alchemy/resource management mechanics, and implemented an integrated multimedia pipeline for trailers and audio.
